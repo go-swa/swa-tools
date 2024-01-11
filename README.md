@@ -1,7 +1,4 @@
 # swa-tools
-<<<<<<< HEAD
- swa-tools
-=======
 
 ### 介绍
 ```
@@ -40,4 +37,3 @@ go mod tidy
 5.  运行main文件,即可导入基础数据
 ```
 ![img_2.png](img_2.png)
->>>>>>> c98342c (readme)
